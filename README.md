@@ -1,3 +1,3 @@
 # test
-first reposiory test
-Testing ream me 
+first repository test
+Testing read me 
